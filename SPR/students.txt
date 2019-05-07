@@ -1,0 +1,7 @@
+Qna Qneva, FEMALE;
+Ina Inova, FEMALE;
+Ana Aneva, FEMALE;
+Georgi Nikolov, MALE;
+Nikolay Nikolov, MALE;
+Stefan Nikolov, MALE;
+Mito Stefanov, MALE;
